@@ -455,3 +455,15 @@ class InvalidLoanException(Exception):
         super().__init__(message)
 ```
 ## Outputs:
+### Apply for a loan:
+![](./output/o0.jpg)
+![](./output/o1.jpg)
+![](./output/o2.jpg)
+### Apply for a loan by ID:
+![](./output/o3.jpg)
+### Check for loan status:
+![](./output/o4.jpg)
+### Calculate EMI:
+![](./output/o5.jpg)
+### Exiting application:
+![](./output/o7.jpg)
